@@ -19,6 +19,9 @@ yarn add
 ```bash
 node serve.js
 ```
+### 4 - Acesse o projeto
 
-E acesse o endereço: [localhost:3000]
+```bash
+localhost:3000
+```
 
