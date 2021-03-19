@@ -5,7 +5,7 @@ Chat de conversas online.
 ### 1 - Clone o reposotório
 
 ```bash
-git clone https://github.com/CarolineBarbosaM/Reset-API.git
+git clone https://github.com/CarolineBarbosaM/Chat-Node.git
 ```
 
 ### 2 - Instale a Dependências:
